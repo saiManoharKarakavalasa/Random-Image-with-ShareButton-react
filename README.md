@@ -1,1 +1,2 @@
-# Random-Image-with-ShareButton-react
+Built with React,React hooks, Redux, React-share
+
